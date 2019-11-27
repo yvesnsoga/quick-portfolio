@@ -2,9 +2,9 @@ title: Yves Nsoga # your name (or website title) here
 logo: "/images/IMG-6762.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br> Computer science Engineer specialized in network security. Currently I am a thesis whose main topic is the improvement of security tools by using the machine learning algorithms<br>
   Second description 
-  <br><br>
+  <br>Passionate about artificial intelligence, more precisely artificial neural networks. Whatever the difficulties I never give up, always focused on my goals: Elon Musk, my idol<br>
   <a href="https://linkedin.com/in/yves-nsoga-pro-link/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
