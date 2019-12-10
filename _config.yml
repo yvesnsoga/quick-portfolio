@@ -2,8 +2,8 @@ title: Yves Nsoga Nguimbous # your name (or website title) here
 logo: "/images/IMG-6762.jpg?raw=true" #your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>Computer science Engineer specialized in network security, PHD candidate in ICT<br>
-  <br>Passionate about artificial intelligence. Hard worker, always focused on my goals<br>
+   Passionate about artificial intelligence. Hard worker, always focused on my goals
   <a href="https://linkedin.com/in/yves-nsoga-pro-link/">View My LinkedIn Profile</a>
-  
+ 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
