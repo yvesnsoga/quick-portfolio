@@ -4,5 +4,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>Computer science Engineer specialized in network security, PHD candidate in ICT
    <br>Passionate about artificial intelligence. Hard worker, always focused on my goals<br>
   <a href="https://linkedin.com/in/yves-nsoga-pro-link/">View My LinkedIn Profile</a>
-theme: jekyll-theme-cayman#jekyll-theme-minimal
+theme: jekyll-theme-cayman #jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
